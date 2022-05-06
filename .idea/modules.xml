@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Parenthesis_Checker_Lab (28.04.22).iml" filepath="$PROJECT_DIR$/.idea/Parenthesis_Checker_Lab (28.04.22).iml" />
+      <module fileurl="file://$PROJECT_DIR$/parentheses_checker_start_code/parenthesis_checker_working_version.iml" filepath="$PROJECT_DIR$/parentheses_checker_start_code/parenthesis_checker_working_version.iml" />
+    </modules>
+  </component>
+</project>
